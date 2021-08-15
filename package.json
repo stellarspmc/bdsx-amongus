@@ -1,10 +1,10 @@
 {
-  "name": "@bdsx/Plugin",
+  "name": "@bdsx/amongus",
   "version": "1.0.1",
-  "description": "Example for bdsx plugin",
+  "description": "Among us plugin, WIP",
   "main": "index.js",
   "keywords": [],
-  "author": "karikera <karikera3@hotmail.com> (https://rua.kr/)",
+  "author": "tcfplayz",
   "license": "ISC",
   "bdsxPlugin": true,
   "scripts": {
